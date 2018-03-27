@@ -1,0 +1,42 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#container{
+	width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: lightgoldenrodyellow;
+}
+
+form{
+	margin-top: 100px;
+}
+
+
+p{
+	margin-left: 35px;
+	padding-top: 10px;
+}
+
+input{
+    margin-left: 65px;
+}
+
+select{
+	width: 162px;
+    height: 20px;
+    margin-left: 24px;
+}
+
+textarea{
+    width: 325px;
+    margin-top: 10px;
+}
+
+#submit{
+	margin-left: 293px;
+    width: 70px;
+    height: 27px;
+}
